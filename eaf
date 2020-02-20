@@ -1,0 +1,25 @@
+[33mcommit be7211e4b8f47922bc95b1fcd1fa757ce0dad754[m[33m ([m[1;36mHEAD -> [m[1;32mtesting[m[33m)[m
+Author: Robert <robertworek01@gmail.com>
+Date:   Thu Feb 20 19:54:48 2020 +0100
+
+    Dodanie nowej funkcji C
+
+[33mcommit c454db2fea60f5da0c9ea1c67935cc49e61875c0[m
+Author: Robert <robertworek01@gmail.com>
+Date:   Thu Feb 20 19:06:53 2020 +0100
+
+    Revert "dodanie eksprymentalnej"
+    
+    This reverts commit 4626d27300acd8d9ce3c05e65eedaea3c4434415.
+
+[33mcommit 4626d27300acd8d9ce3c05e65eedaea3c4434415[m
+Author: Robert <robertworek01@gmail.com>
+Date:   Thu Feb 20 19:04:36 2020 +0100
+
+    dodanie eksprymentalnej
+
+[33mcommit 9b7a76ea77d74f8f1328c4ac5c1180880cd2bca4[m
+Author: Robert <robertworek01@gmail.com>
+Date:   Mon Feb 17 19:53:14 2020 +0100
+
+    Pierwszy commit - dodanie pliku txt
